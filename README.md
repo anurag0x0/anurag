@@ -1,2 +1,2 @@
 # anurag
-My personal portfolio website showcasing projects, resume, and skills.
+My personal portfolio website show casing projects, resume, and skills.
